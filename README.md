@@ -1,7 +1,9 @@
 # LulzoMent
 
-Since there are so many computers around the globe doing nothing productive, I thought of making a synchronyzed DoS attack tool in python.
+Since there are so many computers around the globe doing nothing productive, I thought of making a synchronyzed DDoS attack tool in python.
 The program is currently in the early development stage, so I have't added a lot of features yet.
+
+When I say DDoS, I mean it. I want to add a feature that triggers computers running this program at a specific date to target one website or machine. It will take some time to make tho. But commits are more than welcome.
 
 This is mostly for the anons there that don't know how to code or hack and the people that don't want to feel useless.
 
