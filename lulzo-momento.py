@@ -17,6 +17,10 @@ print(Style.BRIGHT + Fore.BLUE + """
                |_|
 """ + Style.RESET_ALL + "\nDo it or no ballz.\nDo it for Ukraine.")
 
+try: a = sys.argv[1]
+except:
+	print("\nNo arguments specified.\nTry ./lulzo-momento.py --help")
+	exit()
 
 if sys.argv[1] == "--help" or sys.argv[1] == "-h":
 	print("""
