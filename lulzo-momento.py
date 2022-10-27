@@ -33,7 +33,7 @@ Anyway here's the help screen:
 -h, --help		shows this
 -t, --target [url]	set the target url (example: https://kremlin.ru)
 -p, --port [port]	set the target port, by default it will be 80 (80 - http ; 443 - https)
---costum-messages [msg]	set costum messages to send in the packets, separate by ',' (example: anonymous,we_are_legion,oprussia,lulz -- No spaces)
+--custom-messages [msg]	set custom messages to send in the packets, separate by ',' (example: anonymous,we_are_legion,oprussia,lulz -- No spaces)
 --no-questions		doesn't ask you questions (mostly for advanced users)
 """)
 
